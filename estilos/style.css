@@ -1,5 +1,19 @@
 body {
     text-align: center;
     font-family: italic;
-    color: rosybrown;
+    color: rgb(60, 8, 8);
+    font-size: 16px;
+} 
+
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #000000;
+    margin: 0 auto; 
 }
+
+#cotainer h1 {
+    font-size: 20px;
+}
+
